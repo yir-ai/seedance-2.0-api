@@ -1,0 +1,16 @@
+{
+  "repo": "seedance-2.0-api",
+  "model": "bytedance/seedance-2.0",
+  "slug": "seedance-2",
+  "maker": "ByteDance",
+  "released": "2026-02-12",
+  "release_source": "https://seed.bytedance.com/en/blog/official-launch-of-seedance-2-0",
+  "links": {
+    "intro": "https://yir.ai",
+    "model": "https://yir.ai/models/seedance-2",
+    "prices": "https://yir.ai/models/seedance-2#model-prices",
+    "grades": "https://yir.ai/models/seedance-2#model-prices",
+    "signup": "https://yir.ai/console",
+    "docs": "https://docs.yir.ai/getting-started/quickstart"
+  }
+}

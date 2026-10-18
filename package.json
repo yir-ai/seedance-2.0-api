@@ -1,0 +1,11 @@
+{
+  "name": "seedance-2.0-api",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node examples/generate.mjs"
+  },
+  "dependencies": {
+    "@yir-ai/sdk": "^0.12.0"
+  }
+}
